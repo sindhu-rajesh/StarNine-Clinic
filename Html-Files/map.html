@@ -10,7 +10,7 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin=""></script>
     <link rel="stylesheet" href="/Css-Files/map.css">
-    <title>RapiDoc</title>
+    <title>StarNine</title>
 </head>
 <body>
     <div class="tag">Healthcares Nearby</div>
@@ -61,7 +61,7 @@
                 newLon = Math.round(lon) - i*0.1;
             }
 
-            L.marker([newLat,newLon], {icon: greenIcon}).addTo(map).bindPopup("RapidDoc healthcare");
+            L.marker([newLat,newLon], {icon: greenIcon}).addTo(map).bindPopup("StarNine healthcare");
         }
     }
 </script>
