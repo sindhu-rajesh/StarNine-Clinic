@@ -36,7 +36,7 @@ html {
 
 .iti--allow-dropdown input {
     padding-left: 50px;
-    background-color: black;
+    background-color: rgb(10, 9, 9);
     /* Adjust padding to prevent overlap */
 }
 
