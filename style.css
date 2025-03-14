@@ -1,7 +1,7 @@
 body {
   font-family: "Open Sans", sans-serif;
-  color: #fff;
-  background-color: #000;
+  color: #3c0ee3;
+  background-color: #e1d7d7ee;
 }
 .btn1{
   padding:10px;
@@ -72,7 +72,7 @@ h6 {
 
 .content h1 {
   font-size: 80px;
-  color: #d9d9d9;
+  color: #7cc3dc;
 }
 
 .content h1 span {
