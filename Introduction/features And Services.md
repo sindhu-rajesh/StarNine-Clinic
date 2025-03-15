@@ -1,8 +1,8 @@
 # **4. FEATURES AND SERVICES**
 **Homepage:**
 
-Welcome Section: Introduces RapiDoc as a digital healthcare destination, emphasizing the ease and convenience of accessing healthcare services through the platform.
-Download App Button: Encourages users to download the RapiDoc app for a more integrated experience.
+Welcome Section: Introduces StarNine as a digital healthcare destination, emphasizing the ease and convenience of accessing healthcare services through the platform.
+Download App Button: Encourages users to download the StarNine app for a more integrated experience.
 
 **Services:**
 

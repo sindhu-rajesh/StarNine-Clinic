@@ -1,5 +1,5 @@
 # **6. ARCHITECTURE**
-Here is the architecture diagram of Rapidoc healthcare application. 
+Here is the architecture diagram of StarNine healthcare application. 
 
 
 

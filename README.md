@@ -1,7 +1,7 @@
 <a id="top"></a>
 <center>
 
-![RapidDoc](https://camo.githubusercontent.com/dd5e3080a7adc2ead8f86cbbd6577cee0a38439c0ebf195021ce41587b0a405f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a633459675258595161794f5657785633376f757272772e706e67)
+![StarNine](https://camo.githubusercontent.com/dd5e3080a7adc2ead8f86cbbd6577cee0a38439c0ebf195021ce41587b0a405f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a633459675258595161794f5657785633376f757272772e706e67)
 </center>
 
 <div align = "center">
@@ -34,7 +34,7 @@ It is an online platform which enables you to get information about your nearest
 
 ### Setup and Installation
 
-<p style="font-family:var(--ff-philosopher);">To contribute to the RAPIDOC-HEALTHCARE-WEBSITE repository, follow these steps:</p>
+<p style="font-family:var(--ff-philosopher);">To contribute to the StarNine-HEALTHCARE-WEBSITE repository, follow these steps:</p>
 
 1. **Fork the Repository:**
    Click on the "Fork" button on the repository's GitHub page to create a copy of the repository in your GitHub account.
@@ -42,11 +42,11 @@ It is an online platform which enables you to get information about your nearest
 2. **Clone the repository:**
    Clone the forked repository to your local machine using the following command in your terminal.
    ```bash
-   git clone https://github.com/<your-github-username>/RAPIDOC-HEALTHCARE-WEBSITE
+   git clone /<your-github-username>/StarNine-HEALTHCARE-WEBSITE
    ```
 3. **Add a remote upstream:**
    ```bash
-   git remote add upstream https://github.com/original-owner-username/RAPIDOC-HEALTHCARE-WEBSITE
+   git remote add upstream https://github.com/original-owner-username/StarNine-HEALTHCARE-WEBSITE
    ```
 4. **Create a new branch:**
    Create a new branch for your changes. Run the following command in your terminal.
@@ -82,9 +82,9 @@ It is an online platform which enables you to get information about your nearest
 1. _Fork the Repository:_
    Click on the "Fork" button on the repository's GitHub page to create a copy of the repository in your GitHub account.
 
-   ![Screenshot (127)](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/assets/105973197/164ba1a7-d42e-4e4d-acbd-4bc81cf387d5)
+   ![Screenshot (127)](StarNine-HEALTHCARE-WEBSITE-/assets/105973197/164ba1a7-d42e-4e4d-acbd-4bc81cf387d5)
 
-   ![Screenshot (128)](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/assets/105973197/21a47905-69ee-448f-a5c0-71ceb3c694d5)
+   ![Screenshot (128)](StarNine-HEALTHCARE-WEBSITE-/assets/105973197/21a47905-69ee-448f-a5c0-71ceb3c694d5)
 
 2. _Clone the repository:_
    Clone the forked repository to your local machine using the following command in your terminal.
@@ -92,20 +92,20 @@ It is an online platform which enables you to get information about your nearest
    ```bash
    git clone https://github.com/<your-github-username>/RAPIDOC-HEALTHCARE-WEBSITE
    ```
-   ![Screenshot (129)](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/assets/105973197/88249cc4-5849-4472-b190-9d9bad2bb236)
+   ![Screenshot (129)](https://github.com//StarNine-HEALTHCARE-WEBSITE-/assets/105973197/88249cc4-5849-4472-b190-9d9bad2bb236)
 
 
 3. _Open the project in VS Code:_
    Click on the open with vs code button , to make changes to the code using the text editor.
 
-   ![Screenshot (130)](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/assets/105973197/10644887-eb4b-4471-98bb-26e0b1bb4f07)
+   ![Screenshot (130)](https://github.com/StarNine-HEALTHCARE-WEBSITE-/assets/105973197/10644887-eb4b-4471-98bb-26e0b1bb4f07)
 
 
 4. _Find the Index.html file:_
    Right click the file mentioned and click on "Open with Live Server"
    This will redirect to the web-browser and load the landing page of the project
 
-   ![Screenshot (133)](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/assets/105973197/62044e1a-a644-467d-98ac-eabfac970ed9)
+   ![Screenshot (133)](https://github.com/StarNine-HEALTHCARE-WEBSITE-/assets/105973197/62044e1a-a644-467d-98ac-eabfac970ed9)
 
 </details>
 <hr>
