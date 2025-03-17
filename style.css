@@ -1,6 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
-  color: #3c0ee3;
+  color: #0e83e3;
   background-color: #e1d7d7ee;
 }
 .btn1{
@@ -72,11 +72,11 @@ h6 {
 
 .content h1 {
   font-size: 80px;
-  color: #7cc3dc;
+  color: #010a0d;
 }
 
 .content h1 span {
-  color: #55a5ea;
+  color: #2a0779;
   margin-top: 30px;
 
 }

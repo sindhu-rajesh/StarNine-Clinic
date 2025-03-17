@@ -706,7 +706,7 @@ body {
 
 .btn-submit {
     padding: 10px 20px;
-    background-color: #000;
+    background-color: #efc1c1;
     border: none;
     border-radius: 5px;
     color: white;
@@ -772,7 +772,7 @@ body {
 
 .close:hover,
 .close:focus {
-    color: #000;
+    color: #f8dada;
     text-decoration: none;
     cursor: pointer;
 }

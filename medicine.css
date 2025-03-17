@@ -6,7 +6,7 @@ body
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(242, 229, 229);
     /* min-height: 10vh; */
 }
 
@@ -204,7 +204,7 @@ input {
     background-color: #3fbcc051;
 }
 .footer-bottom {
-    background-color: #080d3f;
+    background-color: #f1f2f9;
     padding: 20px 0;
 }
 
