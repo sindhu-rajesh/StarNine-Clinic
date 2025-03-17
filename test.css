@@ -6,7 +6,7 @@ body
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
-    background-color: black;
+    background-color: rgb(238, 232, 232);
     /* min-height: 10vh; */
 }
 
