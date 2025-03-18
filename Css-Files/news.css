@@ -8,12 +8,12 @@
 
 body{
     /* font-family: "Open Sans", sans-serif; */
-    color: #fff;
-    background-color: #000;
+    color: #0a0a0a;
+    background-color: #f6eeee;
   }
   
   a {
-    color: white;
+    color: rgb(22, 21, 21);
     text-decoration: none;
   }
   
@@ -46,8 +46,8 @@ body{
 
 footer {
     width: 100%;
-    background: #3fbcc051;
-    color: #ffff;
+    background: #ebf4f4;
+    color: #151414;
     line-height: 20px;
   }
   
@@ -404,7 +404,7 @@ footer {
   }
   .iti--allow-dropdown input {
     padding-left: 50px;
-    background-color: black; /* Adjust padding to prevent overlap */
+    background-color: rgb(238, 232, 232); /* Adjust padding to prevent overlap */
 }
 
 .iti.iti--allow-dropdown {
@@ -614,7 +614,7 @@ form.php-email-form{
 }
 .iti--allow-dropdown input {
     padding-left: 50px;
-    background-color: black; /* Adjust padding to prevent overlap */
+    background-color: rgb(231, 226, 226); /* Adjust padding to prevent overlap */
 }
 
 .iti.iti--allow-dropdown {
