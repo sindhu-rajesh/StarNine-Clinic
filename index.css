@@ -143,7 +143,7 @@ option {
       position: fixed;
       top: 60px;
       right: 0;
-      background-color: #022a2d;
+      background-color: #ecf4f4;
       width: 40% !important;
       padding: 20px;
       z-index: 10;
@@ -197,7 +197,7 @@ option {
         top: 60px;
         left: 20px;
         margin-top: 37px !important;
-        background-color: #022a2d;
+        background-color: #ebf3f4;
         width: 40% !important;
         padding: 20px;
         z-index: 10;
@@ -709,7 +709,7 @@ body {
     background-color: #efc1c1;
     border: none;
     border-radius: 5px;
-    color: white;
+    color: rgb(15, 14, 14);
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
 }
@@ -1003,7 +1003,7 @@ body {
 }
 .card-back {
     transform: rotateY(180deg);
-    background-color: black;
+    background-color: rgb(243, 240, 240);
     backface-visibility: hidden !important;
 } 
 .card-front {

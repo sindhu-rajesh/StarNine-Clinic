@@ -1,12 +1,12 @@
 body {
   font-family: "Open Sans", sans-serif;
-  color: #fff;
-  background-color: #000;
+  color: #181717;
+  background-color: #f6eeee;
   margin: 0;
   padding-top: 10px;
 }
 a {
-  color: #55a5ea;
+  color: #131314;
   text-decoration: none;
 }
 h1{
@@ -640,8 +640,8 @@ box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
   body {
     font-family: Arial, sans-serif;
-    background-color: #121212;
-    color: white;
+    background-color: #f8f5f5;
+    color: rgb(25, 23, 23);
 
   
   }
