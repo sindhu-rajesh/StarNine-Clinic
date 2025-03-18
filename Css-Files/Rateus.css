@@ -72,8 +72,8 @@
   }
   
   .popup-button {
-    background-color: #005253;
-    color: white;
+    background-color: #eaf1f1;
+    color: rgb(2, 1, 1);
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -82,8 +82,8 @@
   }
   
   .popup-button:hover {
-    background-color: #206b6c;
-    color: white;
+    background-color: #ecf5f5;
+    color: rgb(19, 18, 18);
   }
   
   /* Feedback form styles */
@@ -95,7 +95,7 @@
     padding: 40px;
     animation: slideInFromBottom 1s cubic-bezier(0.68, -0.55, 0.27, 1.55) forwards;
     transition: opacity 0.3s ease-in-out;
-    background-color: #3fbcc051;
+    background-color: #eff9f951;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(6, 130, 130, 0.1);
     max-width: 200%;
@@ -197,7 +197,7 @@
   .feedback-form input:focus,
   .feedback-form textarea:focus {
     outline: none;
-    border-color: #29888a;
+    border-color: #eaf3f3;
     box-shadow: 0 0 5px rgba(41, 136, 138, 0.5);
   }
   
@@ -208,8 +208,8 @@
   }
   
   .feedback-form button[type="submit"] {
-    background-color: hwb(181 16% 46%);
-    color: white;
+    background-color: hwb(180 90% 7%);
+    color: rgb(3, 3, 3);
     border: none;
     padding: 12px 20px;
     border-radius: 5px;
@@ -220,13 +220,13 @@
   }
   
   .feedback-form button[type="submit"]:hover {
-    background-color: #1c5f5e;
+    background-color: #f6fdfd;
     transform: translateY(-2px);
   }
   
   .feedback-form button[type="submit"]:active {
     transform: translateY(0);
-    background-color: #1c5f5e;
+    background-color: #dfe9e8;
   }
   
   .feedback-form .form-group {

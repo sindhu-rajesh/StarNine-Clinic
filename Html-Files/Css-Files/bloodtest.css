@@ -47,7 +47,7 @@
           select, input {
             margin-top: 5px;
             padding: 8px;
-            border: 1px solid #3fbcc0;
+            border: 1px solid #f0f6f7;
             border-radius: 4px;
           }
         
@@ -63,7 +63,7 @@
           }
         
           button:hover {
-            background-color: #2e9a9e;
+            background-color: #eaf1f1;
           }
         
           #result {

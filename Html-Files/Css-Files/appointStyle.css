@@ -15,12 +15,12 @@ body {
     left: 0;
     width: 0%;
     height: 8px;
-    background-color: #3fbcc0;
+    background-color: #f9fcfc;
     z-index: 9999;
 }
 header {
-    background-color: #007074d5;
-    color: white;
+    background-color: #f6fcfcd5;
+    color: rgb(5, 5, 5);
     padding: 15px;
     text-align: center;
     width: 100%;
@@ -39,17 +39,17 @@ main {
 }
 
 main h1 {
-    color: #ffffff;
+    color: #080808;
     text-align: center;
     font-size: 40px;
 }
 main p {
-    color: #ccc;
+    color: #171616;
     font-size: 16px;
 }
 
 form {
-    background: #3fbcc051;
+    background: #edf1f1fe;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(162, 158, 158, 0);
@@ -67,7 +67,7 @@ form {
 label {
     display: block;
     margin-bottom: 5px;
-    color: white;
+    color: rgb(30, 28, 28);
     font-weight: 600;
 }
 
@@ -93,8 +93,8 @@ textarea {
 }
 
 button {
-    background-color:#0b8080;
-    color: white;
+    background-color:#eff7f7;
+    color: rgb(14, 14, 14);
     padding: 15px 20px;
     border: none;
     border-radius: 4px;
@@ -107,7 +107,7 @@ button {
 }
 
 button:hover {
-    background-color:  #026062;
+    background-color:  #f0fafa;
     transform: translateY(2px);
 }
 
@@ -125,7 +125,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     margin-top: 20px;
-    background: #055653d5;
+    background: #f5f8f8d5;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
