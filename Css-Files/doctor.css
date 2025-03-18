@@ -16,7 +16,7 @@
     left: 0;
     width: 0%;
     height: 8px;
-    background-color: #3fbcc0;
+    background-color: #e7eeee;
     z-index: 9999;
 
   }
@@ -183,7 +183,7 @@ footer {
     position: absolute;
     height: 40px;
     width: 40px;
-    background-color: #3fbcc0a4;
+    background-color: #e8f0f0f5;
 }
 .overlay::after{
     border-radius: 0 25px 0 0;
@@ -218,9 +218,9 @@ footer {
 .button{
     border: none;
     font-size: 16px;
-    color: #fff;
+    color: #1a1919;
     padding: 8px 16px;
-    background-color: #007074d5;
+    background-color: #f2fbfbd5;
     border-radius: 8px;
     margin: 14px;
 cursor: pointer;
@@ -234,7 +234,7 @@ transition: all 0.3s ease;
     color: white;
 }
 .swiper-navBtn:hover{
-    color: #007074d5;
+    color: #ebefefd5;
 }
 .swiper-pagination-bullet{
     opacity: 0;

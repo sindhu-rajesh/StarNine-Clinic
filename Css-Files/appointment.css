@@ -82,15 +82,15 @@
 }
 
 .form-select::placeholder {
-    color: #999;
+    color: #181717;
     opacity: 1; 
 }
 
 .btn-primary {
     text-align: center;
     justify-content: center;
-    background-color: #29888A;
-    color: #fff;
+    background-color: #edf5f5;
+    color: #161515;
     font-size: 1.2rem;
     border: none;
     border-radius: 4px;
@@ -102,7 +102,7 @@
 }
 
 .btn-primary:hover {
-    background-color: #30a3a5;
+    background-color: #e5eeee;
     box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
 }
 
