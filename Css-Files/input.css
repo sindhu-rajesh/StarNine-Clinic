@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(247, 241, 241);
     overflow-x: hidden;
     overflow-y: auto;
     height: 100vh;
@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    background: #0f0c29;
+    background: #fbfbfd;
     background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
     background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
     color: white;
@@ -75,14 +75,14 @@ body {
 }
 
 .head1 {
-    color: white;
+    color: rgb(24, 24, 24);
     font-size: 2.5rem;
     font-weight: 500;
     margin-bottom: 10px;
 }
 
 .head2 {
-    color: wheat;
+    color: rgb(6, 6, 6);
     font-size: 1rem;
     font-weight: 500;
     line-height: 1.5;
