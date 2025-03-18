@@ -36,7 +36,7 @@ html {
 
 .iti--allow-dropdown input {
     padding-left: 50px;
-    background-color: rgb(10, 9, 9);
+    background-color: rgb(243, 238, 238);
     /* Adjust padding to prevent overlap */
 }
 
@@ -75,7 +75,7 @@ html {
 .btn-get-started {
     display: inline-block;
     background-color: #3fbcc0;
-    color: #fff;
+    color: #090808;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
@@ -97,14 +97,14 @@ html {
 select {
     padding: 1px;
     background-color: #55a5ea;
-    color: white;
+    color: rgb(22, 21, 21);
     height: 5vh;
     width: 17vh;
 }
 
 option {
     background-color: #55a5ea;
-    color: white;
+    color: rgb(14, 13, 13);
 }
 
 .hamburger {
@@ -179,7 +179,7 @@ option {
   
     .mobile-logo-text {
         display: inline-block;
-        color: white;
+        color: rgb(23, 22, 22);
         font-weight: bold;
         margin-left: 50px;
         margin-right: 23rem;
@@ -681,7 +681,7 @@ body {
 }
 
 .section-black-text p, .section-black-text h2 {
-    color: white;
+    color: rgb(15, 15, 15);
 }
 
 .enhanced-input,
@@ -828,7 +828,7 @@ body {
 .btn1 {
     position: relative;
     background-color: #3fbcc0a6;
-    color: white;
+    color: rgb(23, 22, 22);
     /* border: 2px solid #000; */
     border-radius: 10px;
     overflow: hidden;

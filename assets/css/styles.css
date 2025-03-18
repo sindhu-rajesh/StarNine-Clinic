@@ -126,7 +126,7 @@ body.dark-theme {
 
 .section__title, .section__title-center {
   font-size: var(--h2-font-size);
-  color: rgb(255, 255, 255);
+  color: rgb(16, 16, 16);
   text-align: center;
   margin-bottom: var(--mb-1);
   padding-left: 0px;
@@ -295,7 +295,7 @@ body.dark-theme {
 .button-link {
   background: none;
   padding: 0;
-  color: white;
+  color: rgb(18, 17, 17);
 }
 
 .button-link:hover {
@@ -772,11 +772,11 @@ h6 {
 
 .footer-col .links li a {
   text-decoration: none;
-  color: #bfbfbf;
+  color: #090909;
 }
 
 .footer-col .links li a:hover {
-  color: #fff;
+  color: #0e0d0d;
 }
 
 .footer-col p {
@@ -798,12 +798,12 @@ h6 {
   outline: none;
   border: 1px solid #7489c6;
   caret-color: #fff;
-  color: #fff;
+  color: #040404;
   padding-left: 10px;
 }
 
 .footer-col input::placeholder {
-  color: #ccc;
+  color: #1a1919;
 }
 
 .footer-col form button {
