@@ -35,7 +35,7 @@ body
 
   .header_container {
     /* background-color: #d9d9d9; */
-    background-color: #022a2d;
+    background-color: #ebf0f0;
     opacity: 0.9;
     display: flex;
     flex-direction: row;
@@ -429,7 +429,7 @@ h2{
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  background-color: #022a2d;
+  background-color: #eff4f5;
   color: #fff;
   position: relative;
 }
@@ -523,7 +523,7 @@ position: absolute;
 top: 85px; 
 left: 0;
 width: 100%;
-background-color: #022a2d;
+background-color: #eef2f3;
 flex-direction: column;
 align-items: flex-start; 
 padding: 0px; 
