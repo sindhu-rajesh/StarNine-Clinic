@@ -73,8 +73,8 @@ input {
 } 
 
 .button {
-    background-color: #3fbcc0a6;
-    color: white;
+    background-color: #f1f5f5;
+    color: rgb(26, 24, 24);
     padding: 0.5rem;
     margin-bottom: 1rem;
     width: 50%;
@@ -117,7 +117,7 @@ input {
 }
 
 #medicine-info {
-    background-color: #4bb6b7;
+    background-color: #f5fbfb;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -126,7 +126,7 @@ input {
     background-color: #55a5ea;
 }
 .footer-wrapper{
-    background-color: #59bcbf51;
+    background-color: #ebf5f6;
     padding: 10px 0;
 }
 

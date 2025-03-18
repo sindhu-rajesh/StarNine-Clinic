@@ -242,7 +242,7 @@ option {
       position: fixed;
       top: 60px;
       left: 0px;
-      background-color: #022a2d;
+      background-color: #f3f7f8;
       width: 45% !important;
       margin-top: 30px;
       padding: 20px;
@@ -485,7 +485,7 @@ form.php-email-form {
 }
 
 .section-bg {
-    background-color: #1c413b;
+    background-color: #dfe5e4;
     width: 700px;
     padding: 40px;
 }
@@ -753,7 +753,7 @@ body {
 }
 
 .modal-content {
-    background-color: teal;
+    background-color: rgb(238, 243, 243);
     margin: 20% auto;
     padding: 20px;
     border: 1px solid #888;
@@ -764,7 +764,7 @@ body {
 }
 
 .close {
-    color: white;
+    color: rgb(22, 21, 21);
     float: right;
     font-size: 28px;
     font-weight: bold;
@@ -827,8 +827,8 @@ body {
 
 .btn1 {
     position: relative;
-    background-color: #3fbcc0a6;
-    color: rgb(23, 22, 22);
+    background-color: #e8edee;
+    color: rgb(11, 11, 11);
     /* border: 2px solid #000; */
     border-radius: 10px;
     overflow: hidden;
@@ -858,8 +858,8 @@ body {
 
   #btn {
     position: relative;
-    background-color: #3fbcc0a6;
-    color: white;
+    background-color: #f6fafa;
+    color: rgb(17, 17, 17);
     border-radius: 10px;
     overflow: hidden;
     transition: color 0.3s ease;
@@ -873,7 +873,7 @@ body {
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #55a5ea;
+    background-color: #f3f5f6;
     transition: width 0.3s ease;
     z-index: -1;
   }
@@ -888,8 +888,8 @@ body {
 
   .btn {
     position: relative;
-    background-color: #3fbcc0a6;
-    color: white;
+    background-color: #f6fcfc;
+    color: rgb(20, 20, 20);
     border-radius: 10px;
     overflow: hidden;
     transition: color 0.3s ease;
@@ -918,8 +918,8 @@ body {
 
   .btn-submit {
     position: relative;
-    background-color: #3fbcc0a6;
-    color: white;
+    background-color: #f5f9f9;
+    color: rgb(15, 14, 14);
     border: 2px solid #000;
     border-radius: 10px;
     overflow: hidden;
@@ -950,8 +950,8 @@ body {
 
   .b {
     position: relative;
-    background-color: #3fbcc0a6;
-    color: white;
+    background-color: #eaf4f5;
+    color: rgb(13, 12, 12);
     border: 2px solid #000;
     border-radius: 10px;
     transition: color 0.3s ease;
@@ -1150,7 +1150,7 @@ body {
 
   }
   .doc-app:hover{
-    background-color: teal !important;
+    background-color: rgb(248, 251, 251) !important;
     font-size: 15px;
 
   }

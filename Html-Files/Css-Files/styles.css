@@ -12,7 +12,7 @@ section {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #095a55;
+    background-color: #ebf0f0;
     position: relative;
 }
 
@@ -23,7 +23,7 @@ section::before {
     left: 0;
     width: 50%;
     height: 100%;
-    background: #4bb6b7;
+    background: #f5f9f9;
 }
 
 .nav_link {
@@ -74,7 +74,7 @@ section::before {
     top: 40px;
     width: 350px;
     height: calc(100% - 80px);
-    background: #095a55;
+    background: #f6f9f8;
     z-index: 1;
     padding: 40px;
     display: flex;
