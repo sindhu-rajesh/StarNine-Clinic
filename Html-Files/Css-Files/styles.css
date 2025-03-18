@@ -215,15 +215,15 @@ section::before {
     font-size: 12px;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #095a55;
+    color: #e5eeed;
     font-weight: 500;
 } 
 
 .container .contactForm .formBox .inputBox input[type="submit"] {
     cursor: pointer;
-    background: #095a55;
+    background: #f7faf9;
     border-radius: 20px;
-    color: #fff;
+    color: #0e0d0d;
     border: none;
     max-width: 150px;
     padding: 12px;
@@ -231,7 +231,7 @@ section::before {
 }
 
 .container .contactForm .formBox .inputBox input[type="submit"]:hover {
-    background: #0d9480;
+    background: #f9fbfb;
 }
 
 /* Responsive adjustments */
@@ -268,7 +268,7 @@ section::before {
         justify-content: center;
         align-items: center;
         min-height: 100vh;
-        background: #4bb6b7;
+        background: #eeefef;
     }
 
     section::before {

@@ -6,9 +6,9 @@
   /*========== Colors ==========*/
   --hue: 45;
   --sat: 98%;
-  --first-color: #4bb6b7;
+  --first-color: #f3f5f5;
   --first-color-light: hsl(var(--hue), var(--sat), 85%);
-  --first-color-lighten: #4bb6b7;
+  --first-color-lighten: #b8bcbc;
   --first-color-alt: hsl(var(--hue), var(--sat), 53%);
   --title-color: hsl(var(--hue), 4%, 65%);
   --text-color: hsl(var(--hue), 4%, 65%);
@@ -875,8 +875,8 @@ footer {
 #back-to-top {
   width: 55px;
   height: 55px;
-  fill: hwb(181 16% 46%);
-  color: hwb(181 11% 13%);
+  fill: hwb(180 90% 7%);
+  color: hwb(180 4% 95%);
   transition: fill 0.3s;
 }
 

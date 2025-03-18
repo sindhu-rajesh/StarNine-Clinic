@@ -27,7 +27,7 @@ a {
 
 ::-webkit-scrollbar-thumb{
 
-  background-color: #3fbcc0;
+  background-color: #edf4f4;
   border-radius: 10px;
 }
 
@@ -162,7 +162,7 @@ h6 {
 }
 
 .popup-button {
-  background-color: #005253;
+  background-color: #dfebec;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -172,8 +172,8 @@ h6 {
 }
 
 .popup-button:hover {
-  background-color: #206b6c;
-  color: white;
+  background-color: #f3fcfc;
+  color: rgb(16, 15, 15);
 }
 
 /* Feedback form styles */
@@ -185,7 +185,7 @@ h6 {
   padding: 40px;
   animation: slideInFromBottom 1s cubic-bezier(0.68, -0.55, 0.27, 1.55) forwards;
   transition: opacity 0.3s ease-in-out;
-  background-color: #3fbcc051;
+  background-color: #ebf3f3;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(6, 130, 130, 0.1);
   max-width: 200%;
@@ -195,7 +195,7 @@ h6 {
 }
 
 .feedback-form:hover {
-  box-shadow: 0 0 20px rgba(41, 136, 138, 0.5);
+  box-shadow: 0 0 20px rgba(229, 232, 233, 0.5);
   transform: translateY(-5px);
 }
 
@@ -294,7 +294,7 @@ h6 {
 .feedback-form input:focus,
 .feedback-form textarea:focus {
   outline: none;
-  border-color: #29888a;
+  border-color: #edf2f2;
   box-shadow: 0 0 5px rgba(41, 136, 138, 0.5);
 }
 
@@ -305,7 +305,7 @@ h6 {
 }
 
 .feedback-form button[type="submit"] {
-  background-color: hwb(181 16% 46%);
+  background-color: hwb(186 94% 2%);
   color: white;
   border: none;
   padding: 12px 20px;
@@ -317,13 +317,13 @@ h6 {
 }
 
 .feedback-form button[type="submit"]:hover {
-  background-color: #1c5f5e;
+  background-color: #dee9e9;
   transform: translateY(-2px);
 }
 
 .feedback-form button[type="submit"]:active {
   transform: translateY(0);
-  background-color: #1c5f5e;
+  background-color: #e3eded;
 }
 
 .feedback-form .form-group {
@@ -707,7 +707,7 @@ section {
   z-index: -1;
   font-size: 48px;
   line-height: 1;
-  color: #3fbcc0a4;
+  color: #191a1aa4;
   transition: all 0.3s ease-in-out;
 }
 
@@ -883,7 +883,7 @@ section {
   width: 94px;
   z-index: -1;
   height: 94px;
-  background: radial-gradient(#55a5ea 50%, rgba(4, 196, 234, 0.4) 52%);
+  background: radial-gradient(#55a5ea 50%, rgba(237, 242, 243, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -1343,7 +1343,7 @@ section {
 
 .contact .php-email-form button[type="submit"] {
   display: inline-block;
-  background: #3fbcc0a6;
+  background: #f1f6f6;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1387,7 +1387,7 @@ section {
   transform: translate(-50%, -50%);
   max-width: 1280px;
   width: 95%;
-  background: #3fbcc051;
+  background: #ecf2f2;
   border-radius: 6px;
 }
 
@@ -1519,7 +1519,7 @@ footer {
 #back-to-top {
   width: 55px;
   height: 55px;
-  fill: hwb(181 16% 46%);
+  fill: hwb(180 96% 2%);
   color: hwb(181 11% 13%);
   transition: fill 0.3s;
 }
@@ -1537,7 +1537,7 @@ footer {
   margin: 0 auto;
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  background-color: #3fbcc051;
+  background-color: #e5f1f1;
   text-align: center;
   margin-bottom: 7%;
   border-radius: 20px;
@@ -1580,7 +1580,7 @@ footer {
 }
 
 .btn {
-  background-color: hwb(181 16% 46%);
+  background-color: hwb(180 95% 2%);
   color: white;
   border: none;
   padding: 10px 20px;
