@@ -105,7 +105,7 @@ input[type="text"], input[type="date"], select {
 
 button {
     background-color: #55a5ea;
-    color: white;
+    color: rgb(18, 17, 17);
     padding: 15px 20px;
     border-radius: 2rem;
     cursor: pointer;
@@ -414,7 +414,7 @@ h2{
   }
 }
  h4 {
-  color: white !important;
+  color: rgb(17, 16, 16) !important;
   font-family: none !important;
   padding-top: 100px;
 }
@@ -430,7 +430,7 @@ h2{
   align-items: center;
   padding: 10px 20px;
   background-color: #eff4f5;
-  color: #fff;
+  color: #141313;
   position: relative;
 }
 
@@ -544,7 +544,7 @@ display: flex;
 
   button {
       background-color: #55a5ea;
-      color: white;
+      color: rgb(20, 19, 19);
       padding: 15px 20px;
       border-radius: 2rem;
       cursor: pointer;
@@ -602,12 +602,12 @@ margin-top: 30px;
 .img-h1 {
 text-align: center;
 padding: 20px;
-background-color: #022a2d00;
+background-color: #c5caca00;
 }
 
 .hero-heading {
 font-size: 65px;
-color: white;
+color: rgb(18, 17, 17);
 margin: 0;
 }
 
