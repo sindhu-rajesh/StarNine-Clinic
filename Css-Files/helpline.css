@@ -1,6 +1,6 @@
 /* Helpline Container Styles */
 .helpline-container {
-  background-color: #022a2d;
+  background-color: #f1f7f7;
   padding: 20px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
   transition: all 0.3s ease-in-out;
@@ -18,7 +18,7 @@
 }
 
 .helpline-text {
-  color: #3fbcc0;
+  color: #090a0a;
   font-size: 40px;
   font-weight: bold;
   animation: slideInLeft 0.5s ease-in-out;
@@ -94,7 +94,7 @@
 }
 
 .helpline-link:hover {
-  color: #3fbcc051;
+  color: #d9e1e1;
 }
 
 .helpline-link i {

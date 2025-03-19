@@ -12,12 +12,12 @@ body {
   }
 
   ::-webkit-scrollbar-thumb {
-    background-color: #3fbcc0;
+    background-color: #eff9f9;
     border-radius: 10px;
   }
 
   ::-webkit-scrollbar-thumb:hover {
-    background-color: #005253;
+    background-color: #e3ebeb;
     border-radius: 10px;
   }
 
@@ -29,7 +29,7 @@ body {
     max-width: 800px;
     margin: 30px auto;
     padding: 20px;
-    background: #1c413b;
+    background: #f2f7f6;
     color: white;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -50,7 +50,7 @@ body {
   }
 
   .section-title {
-    color: #00d9ffc2;
+    color: #f2f7f8c2;
     font-size: 1.5em;
     margin-top: 20px;
   }
@@ -72,7 +72,7 @@ body {
 
   footer {
     background-color: rgb(247, 239, 239);
-    color: #fff;
+    color: #111010;
     padding: 20px 0;
   }
   footer a {
@@ -93,6 +93,6 @@ body {
     left: 0;
     width: 0%;
     height: 8px;
-    background-color: #3fbcc0;
+    background-color: #eef4f4;
     z-index: 9999;
   }

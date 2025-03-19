@@ -36,7 +36,7 @@ html {
 
 .iti--allow-dropdown input {
     padding-left: 50px;
-    background-color: rgb(243, 238, 238);
+    background-color: rgb(242, 175, 175);
     /* Adjust padding to prevent overlap */
 }
 
@@ -74,7 +74,7 @@ html {
 
 .btn-get-started {
     display: inline-block;
-    background-color: #edf5f6;
+    background-color: #c3eaef;
     color: #090808;
     padding: 10px 20px;
     text-decoration: none;

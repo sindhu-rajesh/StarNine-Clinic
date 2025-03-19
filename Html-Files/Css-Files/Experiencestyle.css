@@ -10,7 +10,7 @@ a {
   text-decoration: none;
 }
 h1{
-  color: #4bb6b7;
+  color: #101111;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 a:hover {
@@ -20,12 +20,12 @@ a:hover {
 .nav_link li {
   padding: 5px 20px;
   display: inline-block;
-  color: white;
+  color: rgb(20, 20, 20);
 }
 
 .nav_link li a {
   transition: all 0.3s ease 0s;
-  color: white;
+  color: rgb(12, 12, 12);
 }
 /* button {
   position: relative;
@@ -43,7 +43,7 @@ a:hover {
 } */
 
 .nav_link li a:hover {
-  color: #55a5ea;
+  color: #eceff2;
 }
 /*Preloader CSS*/
 .pre{
@@ -73,7 +73,7 @@ a:hover {
   height: 150px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #55a5ea;
+  border-top-color: #ecf2f7;
   animation: spin 3s linear infinite;
 }
 
@@ -86,7 +86,7 @@ a:hover {
   bottom: 5px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #3fbcc0c6;
+  border-top-color: #eff4f4c6;
   animation: spin 3s linear infinite;
 }
 
@@ -180,7 +180,7 @@ align-items: center;
 }
 :root {
   --text-color: #959DA5;
-  --footer-bg: #3fbcc051;
+  --footer-bg: #f3fafa;
   --footer-bottom-bg: #3fbcc051s;
   --white: white;
   --link-color: #959DA5;
@@ -397,18 +397,18 @@ footer {
   justify-content: center;
 }
 .sort-btn{
-  background-color: #3fbcc0;
+  background-color: #e7efef;
   border-radius: 5px
 }
 .sort-btn:hover{
-  background-color: #4adbe0;
+  background-color: #eff4f4;
 }
 .btn2{
   border-radius: 5px;
-  background-color: #3fbcc0;
+  background-color: #dfebeb;
 }
 .btn2:hover{
-  background-color: #4adbe0;
+  background-color: #eef9fa;
 }
 
 @media (max-width:768px){
@@ -585,8 +585,8 @@ z-index: 1000;
 #back-to-top {
 width: 55px;
 height: 55px;
-fill: hwb(181 16% 46%);
-color: hwb(181 11% 13%);
+fill: hwb(189 95% 3%);
+color: hwb(180 85% 12%);
 transition: fill 0.3s;
 background: white;
 border-radius: 50%;
@@ -599,7 +599,7 @@ display: none;
 position: fixed;
 top: 20px;
 right: 20px;
-background: rgb(75, 182, 183);
+background: rgb(240, 246, 246);
 color: black;
 padding: 5px;
 z-index: 1000;
@@ -647,7 +647,7 @@ box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   }
 
   h1 {
-    color: #00bfa5;
+    color: #1f2222;
     text-align: center;
     margin-left: 40px;
   }
@@ -680,10 +680,10 @@ box-shadow: 0 2px 5px rgba(0,0,0,0.2);
     /* border: 2px solid #4bb6b7; */
     border-radius: 20px;
     padding: 30px;
-    background-color: #1c413b;
+    background-color: #eef8f7;
     font-family: 'Cambria', Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
-    color: #ecf0f1;
+    color: #010202;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     /* width: calc(33.333% - 20px);   */
     box-sizing: border-box; 
@@ -715,7 +715,7 @@ box-shadow: 0 2px 5px rgba(0,0,0,0.2);
     margin-right: 200px; /* Add margin to left to separate from content */
   }
   #doctor-list li:hover {
-    background: rgb(75, 182, 183);
+    background: rgb(235, 236, 236);
     border: 2px solid white;
     color: rgb(129, 124, 124);
     font-weight: 700;

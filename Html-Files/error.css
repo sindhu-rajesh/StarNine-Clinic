@@ -66,8 +66,8 @@ header {
   .btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #095a55;
-    color: #fff;
+    background-color: #e1e9e9;
+    color: #100f0f;
     font-size: 16px;
     border: none;
     border-radius: 5px;
@@ -76,7 +76,7 @@ header {
   }
   
   .btn:hover {
-    background-color: #00474a;
+    background-color: #e5eaeb;
   }
   
   /* Image hover effect (replace with a healthcare-related image) */

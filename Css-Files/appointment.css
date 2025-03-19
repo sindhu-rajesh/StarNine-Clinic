@@ -10,7 +10,7 @@
     margin: 0 auto;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    background-color: #3fbcc051;
+    background-color: #f1f6f6;
     text-align: center;
     margin-bottom: 7%;
     border-radius: 20px;
@@ -19,13 +19,13 @@
 .section-title h2 {
     font-size: 1.6rem;
     margin: 15px 0 0 0;
-    color: #fff;
+    color: #191818;
     font-weight: bold;
 }
 
 .section-title p {
     font-size: 0.8rem;
-    color: #666;
+    color: #100f0f;
     font-weight: normal;
     margin: 20px 0 0 0;
 }

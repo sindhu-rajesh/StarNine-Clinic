@@ -78,7 +78,7 @@ header {
 
 .nav-button {
     background-color: #007bff;
-    color: #181717;
+    color: #ebe4e4;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
@@ -174,7 +174,7 @@ footer {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: #3fbcc0a4;
+    background-color: #ecf4f4a4;
 }
 .overlay::before,.overlay::after{
     content: '';

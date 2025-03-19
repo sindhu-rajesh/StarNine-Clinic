@@ -283,7 +283,7 @@ footer {
   .news-item {
     width: calc(33.33% - 20px);
     margin-bottom: 30px;
-    background-color: #022a2d ;
+    background-color: #f1fafa ;
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);

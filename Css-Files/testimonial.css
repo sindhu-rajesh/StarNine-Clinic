@@ -79,7 +79,7 @@
 
 .testimonals-item p {
   margin-top: 20px;
-  color: #f1f8e9;
+  color: #101110;
   text-align: left;
   flex: 1;
 }
@@ -93,12 +93,12 @@
 .testimonals .swiper-pagination-bullet {
   height: 12px;
   width: 12px;
-  background-color: #e0f7fa !important;
+  background-color: #f2f8f8 !important;
 }
 
 .testimonals-item .job {
   text-transform: capitalize;
-  color: #e0f7fa;
+  color: #0b0b0b;
   text-align: center;
 }
 

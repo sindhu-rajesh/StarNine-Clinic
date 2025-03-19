@@ -33,12 +33,12 @@ section::before {
 .nav_link li {
     padding: 5px 20px;
     display: inline-block;
-    color: white;
+    color: rgb(15, 15, 15);
 }
 
 .nav_link li a {
     transition: all 0.3s ease 0s;
-    color: white;
+    color: rgb(16, 15, 15);
     text-decoration: none;
 }
 
@@ -48,7 +48,7 @@ section::before {
 }
 
 .header_container {
-    background-color: #20e8f7;
+    background-color: #eaf5f6;
     opacity: 0.9;
     display: flex;
     flex-direction: row;
@@ -85,7 +85,7 @@ section::before {
 }
 
 .container .contactInfo h2 {
-    color: #fff;
+    color: #131212;
     font-size: 24px;
     font-weight: 500;
 }
@@ -108,7 +108,7 @@ section::before {
 }
 
 .container .contactInfo ul.info li span a {
-    color: #fff;
+    color: #090909;
     text-decoration: none;
 }
 
@@ -118,7 +118,7 @@ section::before {
 }
 
 .container .contactInfo ul.info li span:nth-child(2) {
-    color: #fff;
+    color: #060606;
     margin-left: 10px;
     font-weight: 300;
 }
@@ -155,7 +155,7 @@ section::before {
 }
 
 .container .contactForm h2 {
-    color: #0f3959;
+    color: #0f1010;
     font-size: 24px;
     font-weight: 500;
 }
@@ -215,7 +215,7 @@ section::before {
     font-size: 12px;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #e5eeed;
+    color: #0e0f0f;
     font-weight: 500;
 } 
 

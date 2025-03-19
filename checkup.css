@@ -38,8 +38,8 @@ body {
   }
   
   .btn1 {
-    background-color: #3fbcc0a6;
-    color: white;
+    background-color: #e7f2f3;
+    color: rgb(27, 26, 26);
     border: none;
     padding: 10px 15px;
     border-radius: 5px;
@@ -119,8 +119,8 @@ body {
     
 }
 .service-btn {
-    background-color: #3fbcc0a6;
-    color: #fff;
+    background-color: #eaf4f4;
+    color: #191818;
     border: none;
     padding: 12px 20px;
     border-radius: 8px;
@@ -200,7 +200,7 @@ body {
 }
 .expect-item p{
     align-self: flex-end;
-    background-color:hwb(181 16% 46%);
+    background-color:hwb(180 89% 6%);
     width: 1000px;
     height: 60px;
     gap: 30px;
@@ -212,7 +212,7 @@ body {
     text-align: center;
 }
 .expect-item h2 {
-    background-color: #55a5ea;
+    background-color: #eef2f6;
     border-radius: 50%;
     height: 80px;
     width: 80px;
@@ -246,10 +246,10 @@ body {
     padding-top: 50px;
 }
 .tip-item {
-    background-color:hwb(181 16% 46%);
+    background-color:hwb(189 93% 4%);
     padding: 20px;
     border-radius: 8px;
-    color: white;
+    color: rgb(9, 9, 9);
     width: 70%;
     align-items: center;
     justify-content: center;
@@ -269,7 +269,7 @@ body {
 }
 .tip-item:hover{
     transform: scale(1.1);
-    background-color: #55a5ea;
+    background-color: #e8ebef;
 }
 @media (max-width: 768px) {
     footer {

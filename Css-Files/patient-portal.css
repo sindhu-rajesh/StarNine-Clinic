@@ -54,7 +54,7 @@
 
 .textbox i {
     margin-right: 10px;
-    color: #888;
+    color: #121111;
 }
 
 .textbox input {
@@ -68,7 +68,7 @@
 
 .btn {
     width: 100%;
-    background: #1c413b;
+    background: #e7ebea;
     border: none;
     padding: 15px;
     border-radius: 5px;
@@ -79,7 +79,7 @@
 }
 
 .btn:hover {
-    background: #35aaae;
+    background: #e5eaeb;
     transform: none;
 }
 
@@ -89,7 +89,7 @@
 }
 #forgot-password-patient-portal a ,
 .register-link a {
-    color: #1c413b;
+    color: #121312;
     text-decoration: none;
 }
 #forgot-password-patient-portal a:hover,

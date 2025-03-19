@@ -16,14 +16,14 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #121212;
-      color: white;
+      background-color: #faeeee;
+      color: rgb(17, 17, 17);
   
     
     }
 
     h1 {
-      color: #00bfa5;
+      color: #141515;
       text-align: center;
       margin-left: 40px;
     }
@@ -56,10 +56,10 @@
       border-radius: 20px;
       padding: 30px;
       margin: 20px 0;
-      background-color: #1c413b;
+      background-color: #dfe9e7;
       font-family: 'Cambria', Cochin, Georgia, Times, 'Times New Roman', serif;
       font-size: 25px;
-      color: #ecf0f1;
+      color: #111212;
       display: flex;
       align-items: center;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -76,13 +76,13 @@
     #doctor-list li .content h4 {
       margin: 0;
       font-size: 28px;
-      color: #ecf0f1;
+      color: #0f0f0f;
     }
 
     #doctor-list li .content p {
       margin: 5px 0 0;
       font-size: 20px;
-      color: #f2f7fa;
+      color: #101111;
     }
      
     #doctor-list li img {
@@ -92,14 +92,14 @@
       margin-right: 200px; /* Add margin to left to separate from content */
     }
     #doctor-list li:hover {
-      background: rgb(75, 182, 183);
+      background: rgb(233, 236, 236);
       border: 2px solid white;
       color: rgb(129, 124, 124);
       font-weight: 700;
       font-size: 30px;
     }
     #doctor-list li .content:hover {
-      color: aliceblue;
+      color: rgb(5, 5, 5);
       font-size: 30px;
     }
     #progressBar {
@@ -108,7 +108,7 @@
         left: 0;
         width: 0%;
         height: 6px;
-        background-color: #3fbcc0;
+        background-color: #e4ebeb;
         z-index: 9999;
       }
   </style>
@@ -120,7 +120,7 @@
   <header class="header_container nav-h">
     <div class="img">
       <img id="rd-logo" style="width: 90px; height: auto;" src="../images/rd.png">
-      <p style="border-radius: 2px;background-color: hwb(181 16% 46%); font-size: 1.5rem;margin-top: 5px;color: white;">Rapidoc</p>
+      <p style="border-radius: 2px;background-color: hwb(192 95% 4%); font-size: 1.5rem;margin-top: 5px;color: white;">Rapidoc</p>
     </div>
     <nav class="nav_menu">
       <ul class="nav_link vis-h">
@@ -145,7 +145,7 @@
   <header class="h">
     <h1>Find a Doctor</h1>
     <div class="filter-sort">
-      <label for="experience-filter" style="color: #4bb6b7; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 25px;">Experience:</label>
+      <label for="experience-filter" style="color: #151616; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 25px;">Experience:</label>
       <select id="experience-filter" class="btn2" style="height: 35px; width: 130px; border: none; border-radius: 5px; padding: 5px;">
         <option value="" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">All</option>
         <option value="5">5+ years</option>
@@ -153,9 +153,9 @@
         <option value="15">15+ years</option>
       </select>
       
-      <label for="fee-filter" style="color: #4bb6b7; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 25px;" class="min">Minimum Fee:</label>
+      <label for="fee-filter" style="color: #0e0e0e; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 25px;" class="min">Minimum Fee:</label>
       <input type="range" id="fee-filter" min="0" max="1000" step="50" value="500" style="height: 35px; margin-top: 8px;">
-      <span id="fee-value" style="color: #4bb6b7; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 25px; margin-right: 20px;">1000</span>
+      <span id="fee-value" style="color: #111111; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 25px; margin-right: 20px;">1000</span>
       
       <button id="sort-btn" class="sort-btn" style="font-family: Arial, Helvetica, sans-serif; width: 130px; height: 35px; margin-left: 10px; margin-right: 10px; border: none;">Sort by Fee</button>
     </div>
