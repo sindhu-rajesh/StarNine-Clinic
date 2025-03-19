@@ -10,7 +10,7 @@
 }
 
 .testimonals-item {
-  background: linear-gradient(145deg, #223b26, #1c413b);
+  background: linear-gradient(145deg, #f3f6f4, #f0f5f4);
   padding: 30px;
   border-radius: 20px;
   text-align: center;
@@ -25,7 +25,7 @@
 .testimonals-item:hover {
   transform: translateZ(10px);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
-  background: linear-gradient(145deg, #2a5a3f, #1e6b4b);
+  background: linear-gradient(145deg, #f1f5f3, #e8ecea);
 }
 
 .rating {
@@ -40,7 +40,7 @@
 }
 
 .section-title {
-  color: #e0f7fa;
+  color: #0b0c0c;
   font-size: 48px;
   margin-bottom: 2rem;
   margin-top: 40px;
@@ -71,7 +71,7 @@
   font-size: 24px;
   text-transform: capitalize;
   font-weight: 800;
-  color: #e0f7fa;
+  color: #111212;
   line-height: 1.2;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -104,7 +104,7 @@
 
 .swiper-button-next,
 .swiper-button-prev {
-  color: #e0f7fa !important;
+  color: #141515 !important;
   transition: color 0.3s ease;
   position: absolute;
   top: 40%;
@@ -125,7 +125,7 @@
 
 .swiper-button-next:hover,
 .swiper-button-prev:hover {
-  color: #198754 !important;
+  color: #050605 !important;
 }
 
 @keyframes fadeInUp {
