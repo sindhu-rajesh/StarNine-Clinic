@@ -43,7 +43,7 @@ section::before {
 }
 
 .nav_link li a:hover {
-    color: #55a5ea;
+    color: #1885e4;
     text-decoration: underline 2.5px rgb(3, 3, 94);
 }
 

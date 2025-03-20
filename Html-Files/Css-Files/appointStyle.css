@@ -145,7 +145,7 @@ button:hover {
 .contact-info-doc {
     color: #0d0d0d;
     margin-top: 40px;
-    background-color: #cfcece;
+    background-color: #f5f1f1;
     padding: 20px;
     border-radius: 5px;
     width: 111%;
@@ -159,7 +159,7 @@ button:hover {
 }
 
 footer {
-    background-color: #d1f8c4;
+    background-color: #eef2ed;
     color: rgb(22, 21, 21);
     text-align: center;
     padding: 10px 0;
